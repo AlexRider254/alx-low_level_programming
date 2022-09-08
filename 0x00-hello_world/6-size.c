@@ -1,9 +1,10 @@
 #include <stdio.h>
 
 /**
- *Desctipton:Prints the size of different types in C to the terminal depending on whethere the system is a 32-bit
+ * Description: Prints the size of different types in C to
+ * the terminal depending on whether it is a 32-bit 
  * or a 64-bit system
- * Return: 0 (sucess)
+ * Return: 0 (success)
 */
 int main(void)
 {
