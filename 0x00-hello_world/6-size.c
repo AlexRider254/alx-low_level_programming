@@ -5,8 +5,8 @@
  *
  * Description: Prints the size of different types in C to
  * the terminal depending on whether the system  is a 32-bit 
- * or a 64-bit system
- * Return: 0 (success)
+ * or a 64-bit system.
+ * Return: 0 (Success)
 */
 int main(void)
 {
