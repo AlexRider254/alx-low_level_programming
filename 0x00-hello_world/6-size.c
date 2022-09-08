@@ -1,9 +1,9 @@
 #include <stdio.h>
 
-/*the terminal depending on whethere the system is   32-bit
+/**the terminal depending on whethere the system is   32-bit
  * or a 64-bit system
  * Return: 0 (sucess)
- */
+*/
 int main(void)
 {
 	printf("Size of a char: %d byte(s)\n", sizeof(char));
