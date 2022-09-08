@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * the terminal depending on whethere the system is   32-bit
+ *Desctipton: the terminal depending on whethere the system is   32-bit
  * or a 64-bit system
  * Return: 0 (sucess)
 */
