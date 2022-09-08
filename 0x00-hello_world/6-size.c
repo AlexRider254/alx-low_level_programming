@@ -1,11 +1,6 @@
 #include <stdio.h>
 
-
-/**
- * main - entry to the program 
- *
- * Description: Prints the size of different types in C to 
- * the terminal depending on whethere the system is   32-bit
+/*the terminal depending on whethere the system is   32-bit
  * or a 64-bit system
  * Return: 0 (sucess)
  */
