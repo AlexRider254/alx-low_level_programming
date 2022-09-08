@@ -1,7 +1,10 @@
 #include <stdio.h>
+
+
 /**
- * main -Entry point
- * Return -Display message to terminal
+ * main -entry point for the program
+ *
+ * Return : Display a message to the terminal
  */
 
 int main(void)
