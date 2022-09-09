@@ -19,8 +19,8 @@ int main(void)
 		}
 
 		else if (num >= 10)
-		{	
-			putchar('a' + num%10);
+		{
+			putchar('a' + num % 10);
 		}
 	}
 	putchar('\n');
