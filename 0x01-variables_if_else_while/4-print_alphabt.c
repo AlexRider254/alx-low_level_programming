@@ -2,7 +2,8 @@
 
 /**
  * main - entry of the program
- * Description: This program prints out all the alophabet 
+ *
+ * Description: This program prints out all the alphabet
  * and then prints out a newline
  * Return: 0 (Successfull)
  */
