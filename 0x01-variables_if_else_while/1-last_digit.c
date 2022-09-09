@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 #include <time.h>
 
 /**
@@ -12,8 +11,11 @@
 int main(void)
 {
 	int n;
+	int last_number;
+
 	srand(time(0));
 	n= rand - RAND-MAX / 2;
+	last_digit = n % n;
 
 
 	if (last_digit>5)
