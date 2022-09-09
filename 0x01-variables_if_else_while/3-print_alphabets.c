@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - entry of the program 
+ * main - entry of the program
+ *
  * Description: This program prints out all the letters of the alphabet in
  * lowercase and then prints it again in uppercase
  * and then prints out newline
@@ -26,9 +27,9 @@ int main(void)
 		putchar(letter);
 		letter++;
 	}
-	 putchar('\n');
+	putchar('\n');
 	 
-	 return (0);
+	return (0);
 }
 
 
