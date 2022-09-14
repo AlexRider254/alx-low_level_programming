@@ -1,13 +1,12 @@
 #include <stdio.h>
-#include"main.h"
+#include "main.h"
 
 /**
  * main - introduction to the program
  *
- *
- * Descrioption: The program prints out the _putchar function
- * followed by a new line
- * Return: 0 (Success)
+ * Description: This is a program that will clearly
+ * print out the message "_putchar" to then screen
+ * Return: Always 0 (If Succesfull)
  */
 int main(void)
 {
@@ -20,8 +19,5 @@ int main(void)
 	_putchar('a');
 	_putchar('r');
 
-	_putchar('\n');
-
 	return (0);
 }
-
