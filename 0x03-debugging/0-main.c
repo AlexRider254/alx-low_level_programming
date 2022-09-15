@@ -2,7 +2,7 @@
 
 /**
  * main -test that prints  if a number is positive or negative
- * Return 0
+ * Return: 0
  */
 int main(void)
 {
