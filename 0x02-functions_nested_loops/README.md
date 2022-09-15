@@ -1,2 +1,1 @@
-When this p[rogram is ran and compiled it will basically print a putchar on the screeen
-
+Write a program that prints _putchar, followed by a new line.
