@@ -1,7 +1,6 @@
 #include "main.h"
 /**
  * main - Introduction to the program
- * 
  * Description: Function that prints abc
  * Return: 0
  */
