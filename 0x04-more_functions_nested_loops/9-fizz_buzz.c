@@ -1,38 +1,43 @@
 #include <stdio.h>
 
 /**
- * main - simple FIZZBUZZ program
+ * main - program that prints either number
+ * or fizz or buzz or fizzBuzz
  *
- * Return: Void
+ *
+ * Return: returns 0
  */
 
 int main(void)
 {
-	int i;
+	int num = 1;
 
-	i = 1;
-	while (i <= 100)
+	while (num++ < 100)
 	{
-		if ((i % 3 == 0) && (i % 5 == 0))
+		if ((num % 3 == 0) && (num % 5 == 0))
 		{
 			printf("FizzBuzz ");
 		}
-		else if (i % 3 == 0)
+		else if ((num % 3) == 0)
 		{
 			printf("Fizz ");
 		}
-		else if (i % 5 == 0)
+		else if ((num % 5) == 0)
 		{
-			printf("Buzz ");
+			if (num != 100)
+			{
+				printf("Buzz ");
+			}
+			else
+			{
+				printf("Buzz");
+			}
 		}
 		else
 		{
-			printf("%d ", i);
+			printf("%d ", num);
 		}
-
-		i++;
 	}
 	printf("\n");
-
 	return (0);
 }
