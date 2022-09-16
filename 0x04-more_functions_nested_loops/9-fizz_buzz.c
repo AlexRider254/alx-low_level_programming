@@ -37,8 +37,8 @@ int main(void)
 		{
 			printf("%d ", num);
 		}
+		num++
 	}
-	n++
 	printf("\n");
 
 	return (0);
