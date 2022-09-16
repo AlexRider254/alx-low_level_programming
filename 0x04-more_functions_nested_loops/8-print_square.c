@@ -9,8 +9,9 @@
  * writing '#' to the screen for the number of times specified
  * by the variable "size"
  *
- * Return: void
+ * Return: Void
  */
+
 void print_square(int size)
 {
 	if (size <= 0)
