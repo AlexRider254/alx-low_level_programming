@@ -6,8 +6,9 @@
  *
  * Description: This function will repeatedly print '\' followed
  * by a new line to the screen in order to create a diagonal line
- * on the screen.
- * Return: Void
+ * on the screen
+ *
+ * Return: void
  */
 void print_diagonal(int n)
 {
@@ -36,6 +37,5 @@ void print_diagonal(int n)
 
 			i++;
 		}
-		
 	}
 }
