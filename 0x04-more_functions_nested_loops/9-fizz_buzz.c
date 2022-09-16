@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include "main.h"
 
 /**
  * main - program that prints either number
@@ -8,6 +7,7 @@
  *
  * Return: returns 0
  */
+
 int main(void)
 {
 	int num = 1;
