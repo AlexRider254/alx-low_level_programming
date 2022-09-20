@@ -1,9 +1,5 @@
 #include "main.h"
 
-int get_length(char *);
-
-
-
 /**
  * puts_half - prints the second half of a string to the screen
  * @str: String to be printed to the screen
@@ -12,7 +8,7 @@ int get_length(char *);
  */
 void puts_half(char *str)
 {
-	int index; half;
+	int index, half;
 
 	index=0;
 	while (str[index] != '\0')
