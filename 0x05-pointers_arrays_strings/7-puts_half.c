@@ -1,7 +1,5 @@
 #include "main.h"
-#include <stdio.h>
-
-/**
+i/**
  * puts_half - prints the second half of a string to the screen
  * @str: String to be printed to the screen
  *
